@@ -1,0 +1,4 @@
+[submodule "nlahkimdev/public"]
+	path = nlahkimdev/public
+	url = git@github.com:najibyla/nlahkimdev.github.io.git
+	branch = main
